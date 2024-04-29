@@ -2,8 +2,11 @@ import React, { Component } from "react"
 import "./data.css"
 
 class Datarecord extends Component {
+  constructor(props){
+    super(props);
+    this.record =props.data;
+  }
   render() {
-    this.record = this.props.data;
     return (
       <div className="container">
         {this.record.map((val) => {

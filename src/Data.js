@@ -4,7 +4,7 @@ let data = [
         name : 'kishan',
         email : 'kishan@gmail.com',
         password : 'kishan@123',
-        course : ["html","css","bootstrap","js"],
+        course : ["html ","css ","bootstrap ","js "],
         city : "surat",
         images:"https://images.pexels.com/photos/792326/pexels-photo-792326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
@@ -13,7 +13,7 @@ let data = [
         name : 'jay',
         email : 'jay@gmail.com',
         password : 'kishan@123',
-        course : ["photosho","figma","illustrator","adobe xd"],
+        course : ["photosho ","figma ","illustrator ","adobe xd "],
         city : "rajkot",
         images:"https://images.pexels.com/photos/977796/pexels-photo-977796.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
@@ -22,7 +22,7 @@ let data = [
         name : 'ajay',
         email : 'ajay@gmail.com',
         password : 'ajay@123',
-        course : ["html","css","bootstrap","nodejs"],
+        course : ["html ","css ","bootstrap ","nodejs "],
         city : "amareli",
         images:"https://images.pexels.com/photos/1205033/pexels-photo-1205033.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
@@ -31,7 +31,7 @@ let data = [
         name : 'nisha',
         email : 'nisha@gmail.com',
         password : 'nisha@123',
-        course : ["html","css","bootstrap","python"],
+        course : ["html ","css ","bootstrap ","python "],
         city : "vadodara",
         images:"https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
