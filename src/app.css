@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    background-color:#ddd;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+ul,ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+header ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+header ul li{
+    margin: 10px;
+}
+header ul li a{
+    color: black;
+    
+}
